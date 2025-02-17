@@ -4,3 +4,6 @@ femnist/
 histories/
 L361-Federated-Learning-release/
 release.zip
+device_info.tar.gz
+._device_info
+device_info/
