@@ -1,0 +1,7 @@
+matplotlib
+tqdm
+seaborn
+git+https://github.com/Iacob-Alexandru-Andrei/flower.git@teaching
+torch 
+torchvision 
+ray=="2.6.3"
